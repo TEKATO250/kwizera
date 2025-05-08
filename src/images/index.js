@@ -1,0 +1,1 @@
+export const homeImage="https://img.freepik.com/free-photo/standard-quality-control-concept-m_23-2150041859.jpg?ga=GA1.1.1441504903.1746710219&semt=ais_hybrid&w=740"
